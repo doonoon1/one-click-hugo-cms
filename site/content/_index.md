@@ -2,7 +2,7 @@
 title: Digital solutions that keep you ahead of the curve
 subtitle: a company that specializes in helping businesses tell their stories
   through digital media and marketing
-image: /img/home-jumbotron.jpg
+image: img/about-direct-sourcing.jpg
 blurb:
   heading: Why Kaldi?
   text: Kaldi is the coffee store for everyone who believes that great coffee
